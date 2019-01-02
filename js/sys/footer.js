@@ -93,7 +93,7 @@ var footerString = '<div class="container">                                     
 					'					document.write(new Date().getFullYear());'+
 					'				</script>'+
 					'				粤ICP备XXXXX号-1 | 粤公网安备99999999999999号 <i class="icon-heart" aria-hidden="true"></i>'+
-					'				<a href="https://github.com/wjxliyan" rel="nofollow" target="_blank" title="GitHub"> Copyright © wujiaxin.cn'+
+					'				<a href="https://github.com/YouAreCold" rel="nofollow" target="_blank" title="GitHub"> Copyright © wujiaxin.cn'+
 					'					<i class="fa fa-github" aria-hidden="true"></i></a>'+
 					'			</small>'+
 					'		</p>'+
