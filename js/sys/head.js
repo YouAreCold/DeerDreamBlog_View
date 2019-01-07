@@ -27,6 +27,15 @@ var headString = '<div class="top-menu">'+
 												'<li><a href="readerWall.html">读者墙</a></li>'+
 										'</ul>'+
 								'</li>'+
+								'<li class="dropdown">'+
+								'<a href="javascript:void();">'+
+								'		语言'+
+								'</a>'+
+								'<ul class="dropdown-menu">'+
+								'<li><a href="javascript:void();">简体中文</a></li>'+
+    							'<li><a href="javascript:void();">暂不支持其他语言</a></li>'+
+								'</ul>'+
+								'</li>'+
 								'<li><a href="search.html">搜索 🔎</a></li>'+
 							'</ul>'+
 						'</div>'+
